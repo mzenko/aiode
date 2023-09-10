@@ -1,0 +1,4 @@
+services:
+  squilliam:
+    image: mzenko/aiode
+    build: .
